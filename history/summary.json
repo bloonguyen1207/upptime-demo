@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ext-api.airthings.com.ico",
     "slug": "ext-api",
     "status": "up",
-    "uptime": "0.67%",
-    "uptimeDay": "0.67%",
-    "uptimeWeek": "0.67%",
-    "uptimeMonth": "0.67%",
-    "uptimeYear": "0.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 125,
     "timeDay": 125,
     "timeWeek": 125,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {
-      "2024-03-08": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
